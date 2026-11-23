@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp
+_tmp*
+_temp*
+*.tmp
+~$*
+
+# Source/reference materials
+ref.png
+TEXTlendingDc.docx
+TZlendingDc.docx
+Нажмите Commit change
